@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.button{
+    width: 150px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.add-btn{
+    width: fit-content;
+    font-family: "Montserrat", sans-serif;
+    padding: 6px 10px;
+    border-radius: 20px;
+    background-color: chartreuse;
+    font-size: 12px;
+    cursor: pointer;
+
+}
+
+.sub{
+    font-family: "Montserrat", sans-serif;
+    color: red;
+    font-size: 12px;
+    margin-left: 6px;
+    cursor: pointer;
+
+
+    /* padding: 4px 8px;
+    border-radius: 15px;
+    background-color: red; */
+}
+.cart-p{
+    font-family: "Montserrat", sans-serif;
+    padding-top: 6px;
+    font-size: 12px;
+
+}

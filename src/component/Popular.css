@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.top-selling {
+    font-family: "Montserrat", sans-serif;
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+}
+h1{
+     margin: 40px;
+     text-align: center;    
+    font-size: 25px;
+}
+.cart-top-sell{
+    height: 250px;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    font-family: "Montserrat", sans-serif;
+}
+.cart-top-sell img{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+}
+.cart-top-sell h6{
+    max-width: 150px;
+    text-align: left;
+    margin: 0 auto;   
+
+}
+.cart-top-sell span{
+        font-size: 12px;
+        font-weight: 600;
+        margin: 5px auto;
+        width: 150px;
+        text-align: left;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.hero{
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    height: 92vh;
+    background-image: url("../assets/bg.jpg");
+    background-size: cover;
+
+}
+
+.heading{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    max-width: 400px;
+    font-size: 25px;
+}
+.collecction-btn{
+
+    padding: 10px 30px;
+    font-family: "Montserrat", sans-serif;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 40px;
+}

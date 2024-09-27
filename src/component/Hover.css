@@ -1,0 +1,20 @@
+.hover-item-of-cart img{
+   width: 80px;
+   height: 80px;
+}
+
+.hover-cart-container{
+    width: 25%;
+    right: 0;
+    background: antiquewhite;
+    position: absolute;
+    top: 16%;
+    z-index: 5;
+    right: 0px;
+    text-align: center;
+}
+.hover-item-of-cart h6{
+    max-width: 150px;
+    text-align: left;
+    margin: 0 auto; 
+}
